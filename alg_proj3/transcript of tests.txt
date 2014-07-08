@@ -1,0 +1,309 @@
+N=20:
+Please enter number of projects : 20
+  P1 profit = -154 predecessors:
+  P2 profit = -229 predecessors:  P1
+  P3 profit = -473 predecessors:  P1
+  P4 profit = -558 predecessors:  P3
+  P5 profit = -232 predecessors:  P2
+  P6 profit = -337 predecessors:  P3  P2
+  P7 profit = -124 predecessors:  P3  P2
+  P8 profit = 330 predecessors:  P6
+  P9 profit = -200 predecessors:  P5  P7
+  P10 profit = 246 predecessors:  P1  P3
+  P11 profit = 43 predecessors:  P5  P4
+  P12 profit = -73 predecessors:  P5
+  P13 profit = -279 predecessors:  P1  P12
+  P14 profit = 515 predecessors:  P7
+  P15 profit = -109 predecessors:  P1  P7  P3
+  P16 profit = 423 predecessors:  P9  P15
+  P17 profit = 698 predecessors:  P1  P15  P10
+  P18 profit = 237 predecessors:  P8  P4  P16
+  P19 profit = 333 predecessors:  P6  P4  P2
+  P20 profit = 635 predecessors:  P8  P9
+The sum of all positive profits = 3460
+  P1 is a good choice from the list
+  P2 is a good choice from the list
+  P3 is a good choice from the list
+  P4 is a good choice from the list
+  P5 is a good choice from the list
+  P6 is a good choice from the list
+  P7 is a good choice from the list
+  P8 is a good choice from the list
+  P9 is a good choice from the list
+  P10 is a good choice from the list
+  P11 is a good choice from the list
+  P14 is a good choice from the list
+  P15 is a good choice from the list
+  P16 is a good choice from the list
+  P17 is a good choice from the list
+  P18 is a good choice from the list
+  P19 is a good choice from the list
+  P20 is a good choice from the list
+The highest possible profit is 1044
+
+N=30:
+Please enter number of projects : 30
+  P1 profit = -264 predecessors:
+  P2 profit = -699 predecessors:  P1
+  P3 profit = -687 predecessors:  P1  P2
+  P4 profit = 42 predecessors:  P2
+  P5 profit = 247 predecessors:  P2  P3
+  P6 profit = -1002 predecessors:  P2
+  P7 profit = -823 predecessors:  P3  P5
+  P8 profit = -240 predecessors:  P3
+  P9 profit = -569 predecessors:  P1
+  P10 profit = -605 predecessors:  P6  P4
+  P11 profit = -709 predecessors:  P6
+  P12 profit = -805 predecessors:  P2
+  P13 profit = -85 predecessors:  P7  P5  P8
+  P14 profit = 42 predecessors:  P12
+  P15 profit = -67 predecessors:  P3
+  P16 profit = -653 predecessors:  P8
+  P17 profit = -452 predecessors:  P15  P7
+  P18 profit = 865 predecessors:  P11
+  P19 profit = 686 predecessors:  P14  P8
+  P20 profit = -380 predecessors:  P15  P14
+  P21 profit = 853 predecessors:  P20  P18  P1
+  P22 profit = 180 predecessors:  P3  P13
+  P23 profit = 1135 predecessors:  P2
+  P24 profit = 872 predecessors:  P20
+  P25 profit = 1142 predecessors:  P15  P21
+  P26 profit = 200 predecessors:  P12  P18
+  P27 profit = 863 predecessors:  P9  P22  P8
+  P28 profit = 873 predecessors:  P16  P2
+  P29 profit = 83 predecessors:  P26  P7
+  P30 profit = 1404 predecessors:  P11
+The sum of all positive profits = 9487
+  P1 is a good choice from the list
+  P2 is a good choice from the list
+  P3 is a good choice from the list
+  P4 is a good choice from the list
+  P5 is a good choice from the list
+  P6 is a good choice from the list
+  P8 is a good choice from the list
+  P11 is a good choice from the list
+  P12 is a good choice from the list
+  P14 is a good choice from the list
+  P15 is a good choice from the list
+  P16 is a good choice from the list
+  P18 is a good choice from the list
+  P19 is a good choice from the list
+  P20 is a good choice from the list
+  P21 is a good choice from the list
+  P23 is a good choice from the list
+  P24 is a good choice from the list
+  P25 is a good choice from the list
+  P26 is a good choice from the list
+  P28 is a good choice from the list
+  P30 is a good choice from the list
+The highest possible profit is 2855
+
+N=50:
+Please enter number of projects : 50
+The sum of all positive profits = 19476
+  P1 is a good choice from the list
+  P2 is a good choice from the list
+  P3 is a good choice from the list
+  P4 is a good choice from the list
+  P5 is a good choice from the list
+  P6 is a good choice from the list
+  P7 is a good choice from the list
+  P8 is a good choice from the list
+  P10 is a good choice from the list
+  P11 is a good choice from the list
+  P12 is a good choice from the list
+  P13 is a good choice from the list
+  P16 is a good choice from the list
+  P17 is a good choice from the list
+  P18 is a good choice from the list
+  P19 is a good choice from the list
+  P21 is a good choice from the list
+  P22 is a good choice from the list
+  P23 is a good choice from the list
+  P24 is a good choice from the list
+  P25 is a good choice from the list
+  P27 is a good choice from the list
+  P28 is a good choice from the list
+  P29 is a good choice from the list
+  P31 is a good choice from the list
+  P33 is a good choice from the list
+  P34 is a good choice from the list
+  P35 is a good choice from the list
+  P36 is a good choice from the list
+  P37 is a good choice from the list
+  P38 is a good choice from the list
+  P39 is a good choice from the list
+  P40 is a good choice from the list
+  P41 is a good choice from the list
+  P43 is a good choice from the list
+  P44 is a good choice from the list
+  P46 is a good choice from the list
+  P47 is a good choice from the list
+  P48 is a good choice from the list
+  P49 is a good choice from the list
+  P50 is a good choice from the list
+The highest possible profit is 3983
+
+N=80:
+Please enter number of projects : 80
+The sum of all positive profits = 61433
+  P1 is a good choice from the list
+  P2 is a good choice from the list
+  P3 is a good choice from the list
+  P4 is a good choice from the list
+  P5 is a good choice from the list
+  P6 is a good choice from the list
+  P7 is a good choice from the list
+  P8 is a good choice from the list
+  P9 is a good choice from the list
+  P10 is a good choice from the list
+  P11 is a good choice from the list
+  P12 is a good choice from the list
+  P13 is a good choice from the list
+  P14 is a good choice from the list
+  P15 is a good choice from the list
+  P16 is a good choice from the list
+  P17 is a good choice from the list
+  P18 is a good choice from the list
+  P20 is a good choice from the list
+  P21 is a good choice from the list
+  P22 is a good choice from the list
+  P23 is a good choice from the list
+  P24 is a good choice from the list
+  P25 is a good choice from the list
+  P26 is a good choice from the list
+  P27 is a good choice from the list
+  P28 is a good choice from the list
+  P29 is a good choice from the list
+  P30 is a good choice from the list
+  P31 is a good choice from the list
+  P32 is a good choice from the list
+  P33 is a good choice from the list
+  P34 is a good choice from the list
+  P36 is a good choice from the list
+  P37 is a good choice from the list
+  P40 is a good choice from the list
+  P41 is a good choice from the list
+  P43 is a good choice from the list
+  P44 is a good choice from the list
+  P45 is a good choice from the list
+  P46 is a good choice from the list
+  P47 is a good choice from the list
+  P48 is a good choice from the list
+  P50 is a good choice from the list
+  P51 is a good choice from the list
+  P52 is a good choice from the list
+  P53 is a good choice from the list
+  P54 is a good choice from the list
+  P56 is a good choice from the list
+  P58 is a good choice from the list
+  P59 is a good choice from the list
+  P60 is a good choice from the list
+  P61 is a good choice from the list
+  P62 is a good choice from the list
+  P63 is a good choice from the list
+  P64 is a good choice from the list
+  P66 is a good choice from the list
+  P68 is a good choice from the list
+  P70 is a good choice from the list
+  P71 is a good choice from the list
+  P72 is a good choice from the list
+  P73 is a good choice from the list
+  P74 is a good choice from the list
+  P75 is a good choice from the list
+  P76 is a good choice from the list
+  P77 is a good choice from the list
+  P78 is a good choice from the list
+  P79 is a good choice from the list
+  P80 is a good choice from the list
+The highest possible profit is 11258
+
+N=100:
+Please enter number of projects : 100
+The sum of all positive profits = 85912
+  P1 is a good choice from the list
+  P2 is a good choice from the list
+  P3 is a good choice from the list
+  P4 is a good choice from the list
+  P5 is a good choice from the list
+  P6 is a good choice from the list
+  P7 is a good choice from the list
+  P8 is a good choice from the list
+  P9 is a good choice from the list
+  P10 is a good choice from the list
+  P11 is a good choice from the list
+  P12 is a good choice from the list
+  P13 is a good choice from the list
+  P14 is a good choice from the list
+  P15 is a good choice from the list
+  P16 is a good choice from the list
+  P17 is a good choice from the list
+  P18 is a good choice from the list
+  P19 is a good choice from the list
+  P20 is a good choice from the list
+  P21 is a good choice from the list
+  P22 is a good choice from the list
+  P23 is a good choice from the list
+  P24 is a good choice from the list
+  P25 is a good choice from the list
+  P26 is a good choice from the list
+  P27 is a good choice from the list
+  P28 is a good choice from the list
+  P29 is a good choice from the list
+  P30 is a good choice from the list
+  P31 is a good choice from the list
+  P32 is a good choice from the list
+  P33 is a good choice from the list
+  P34 is a good choice from the list
+  P35 is a good choice from the list
+  P37 is a good choice from the list
+  P38 is a good choice from the list
+  P39 is a good choice from the list
+  P41 is a good choice from the list
+  P42 is a good choice from the list
+  P45 is a good choice from the list
+  P46 is a good choice from the list
+  P47 is a good choice from the list
+  P48 is a good choice from the list
+  P49 is a good choice from the list
+  P50 is a good choice from the list
+  P51 is a good choice from the list
+  P53 is a good choice from the list
+  P54 is a good choice from the list
+  P56 is a good choice from the list
+  P57 is a good choice from the list
+  P58 is a good choice from the list
+  P59 is a good choice from the list
+  P61 is a good choice from the list
+  P63 is a good choice from the list
+  P64 is a good choice from the list
+  P65 is a good choice from the list
+  P68 is a good choice from the list
+  P69 is a good choice from the list
+  P70 is a good choice from the list
+  P71 is a good choice from the list
+  P72 is a good choice from the list
+  P73 is a good choice from the list
+  P75 is a good choice from the list
+  P76 is a good choice from the list
+  P78 is a good choice from the list
+  P79 is a good choice from the list
+  P80 is a good choice from the list
+  P81 is a good choice from the list
+  P82 is a good choice from the list
+  P83 is a good choice from the list
+  P84 is a good choice from the list
+  P85 is a good choice from the list
+  P87 is a good choice from the list
+  P88 is a good choice from the list
+  P90 is a good choice from the list
+  P91 is a good choice from the list
+  P92 is a good choice from the list
+  P94 is a good choice from the list
+  P95 is a good choice from the list
+  P96 is a good choice from the list
+  P97 is a good choice from the list
+  P98 is a good choice from the list
+  P99 is a good choice from the list
+  P100 is a good choice from the list
+The highest possible profit is 11344
